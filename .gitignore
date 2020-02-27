@@ -1,0 +1,8 @@
+# Project files.
+.idea/*
+.gradle/*
+art/*
+
+# Build files.
+build/*
+out/*

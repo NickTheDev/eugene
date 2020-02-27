@@ -1,0 +1,12 @@
+# Auto Broadcast settings.
+name: Eugene
+main: com.vanilla.eugene.Eugene
+version: 1.0
+author: NickTheDev
+website: http://nikdev.net/
+# KitPvp commands.
+commands:
+  # Rank base command.
+  setrank:
+    # Command alias.
+    aliases: [sr, setr]
